@@ -12,6 +12,6 @@ CPU: Intel i7-8750H
 
 ## 系统版本：macOS Monterey 12.01  
 
-## 参考
+## 贡献者&鸣谢：  
 1. [kirainmoe/tongfang-macos](https://github.com/kirainmoe/tongfang-macos)
 2. [L0ngxhn/Hackintosh-Hasee-T96E](https://github.com/L0ngxhn/Hackintosh-Hasee-T96E)
