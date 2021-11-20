@@ -5,7 +5,7 @@
 CPU: Intel i7-8750H  
 内存：16GB  
 核心显卡：UHD630  
-独立显卡：GTX1060（无法驱动）
+独立显卡：GTX1060（无法驱动）  
 声卡：ALC1220  
 硬盘：KINGSTON A2000（SSD）  
 无线网卡：博通 BCM94352Z    
