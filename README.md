@@ -10,7 +10,7 @@ CPU: Intel i7-8750H
 硬盘：KINGSTON A2000（SSD）  
 无线网卡：博通 BCM94352Z    
 
-## 系统版本：macOS Monterey 12.01  
+## 系统版本：macOS Monterey 12.5.1   
 
 ## 贡献者&鸣谢：  
 1. [kirainmoe/tongfang-macos](https://github.com/kirainmoe/tongfang-macos)
